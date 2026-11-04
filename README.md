@@ -4,4 +4,5 @@ Once installed on calculator:
 3. Clickon the app and run it!
 
 WARNING: THIS EMULATOR IS EARLY IN PROGRESS. EXPECT THINGS TO NOT WORK AND BUGS
+
 NOTE: So far ive only gotten KoalaMines to work
