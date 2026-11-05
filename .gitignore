@@ -1,0 +1,12 @@
+# build output
+build/
+fx9860/build-fx/
+*.g1a
+*.o
+*.obj
+*.a
+*.elf
+*.map
+
+# generated: tools/gen_bootimg.c emits this at build time
+bootimg.c
